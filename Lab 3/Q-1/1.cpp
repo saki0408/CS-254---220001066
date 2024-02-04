@@ -228,8 +228,8 @@ inline lld** Strassen(lld** a, lld** b, int n, int l, int m) {
 	return c;
 }
 int main() {
-    freopen("test_cases_Q1.txt","r",stdin);
-    freopen("output_Q1.txt","w",stdout);
+    freopen("input.txt","r",stdin);
+    freopen("output.txt","w",stdout);
     int t; 
     cin >> t;
     while(t--) {

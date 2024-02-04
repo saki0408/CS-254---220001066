@@ -10,8 +10,8 @@ long long max_subsequence(int i, long long &ans, vector<long long> &a) {
     return cans;
 }
 int main() {
-    freopen("test_cases_Q2.txt","r",stdin);
-    freopen("output_Q2.txt","w",stdout);
+    freopen("input.txt","r",stdin);
+    freopen("output.txt","w",stdout);
     int t; 
     cin >> t;
     while(t--){

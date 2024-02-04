@@ -1,4 +1,4 @@
-output_file = "test_cases_Q2.txt"
+output_file = "input.txt"
 file=open(output_file, "w")
 file.write(str(10)+"\n")
 import random
