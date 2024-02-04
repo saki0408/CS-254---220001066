@@ -14,7 +14,7 @@ int main() {
     freopen("output.txt","w",stdout);
     int t; 
     cin >> t;
-    while(t--){
+    while(t--) {
         int n; 
         cin >> n;
         vector<long long> a(n);
